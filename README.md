@@ -1,4 +1,5 @@
 # Time Stretching Portions of an Audio File [Algorithmic Approach Only]
+### As this is an explanation of my approach, for the sake of mathematical formatting, I've included the PDF file I submitted.
 
 Think of a sample as a rubber-band that you want to pin to a musical time ruler. In Live, the
 pins are called Warp Markers. A Warp Marker locks a specific point in the sample (in sample
@@ -63,6 +64,3 @@ Output
 
   11.0
 
-### As this is an explanation of my approach, for the sake of mathematical formatting, I've included the PDF file I submitted.
-
-[Programming Assignment #1 - Tanmay Mishra.pdf](https://github.com/tmishra3/Time-Stretching-Portions-of-an-Audio-File/files/7622059/Programming.Assignment.1.-.Tanmay.Mishra.pdf)
